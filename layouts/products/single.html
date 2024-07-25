@@ -37,7 +37,7 @@
         </button>
         {{ else }}
         {{ with .Params.button_link}}
-        //<a class="btn btn-main mb-5" href="{{ . | absURL }}">{{i18n "add_to_cart"}}</a>
+        <a class="btn btn-main mb-5" href="{{ . | absURL }}">{{i18n "add_to_cart"}}</a>
         {{ end }}
         {{ end }}
 
