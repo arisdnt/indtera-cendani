@@ -19,7 +19,7 @@ colors : ["black","white","gray"]
 sizes : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button
-button_link: "#"
+button_link: "https://wa.me/+6285857227204"
 
 draft: false
 ---
