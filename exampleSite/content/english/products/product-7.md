@@ -11,7 +11,7 @@ images:
 description : "this is meta descriptionss"
 
 # product Price
-price: "30.00"
+price: "50.00"
 discount_price: "25.00"
 
 # product variation
