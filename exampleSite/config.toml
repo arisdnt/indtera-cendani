@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
 title = "Vex | hugo landing page template"
-theme = "vex-hugo"
+theme = "vex-hugos"
 # post excert
 summarylength = "20"
 # google analytics
@@ -43,7 +43,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "This is meta descriptions"
 author = "Themefisher"
 # currency
 currency = "$"
