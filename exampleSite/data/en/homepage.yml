@@ -64,6 +64,7 @@ promo:
 about_product:
   enable: true
   title: "Why Choose Apple Watch"
+  bg_image: "images/call-to-action.jpg"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
