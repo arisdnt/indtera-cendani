@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-title = "IND TERA CENDANI | LAB YOUR PARFUME"
+title = "ITC | PT IND TERA CENDANI"
 theme = "vex-hugos"
 # post excert
 summarylength = "20"
@@ -46,7 +46,7 @@ logo_width = "100px"
 description = "This is meta descriptions"
 author = "Themefisher"
 # currency
-currency = "Rp"
+currency = "Rp. "
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
