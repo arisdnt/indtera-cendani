@@ -1,11 +1,11 @@
 ---
-title: "Apple Watch"
+title: "Alpha Parfume"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/indtera/alpha.png"
 
 # meta description
-description : "this is meta description"
+description : "Parfum Pria yang diracik Oleh Ahlinya Ahli"
 
 # product Price
 price: "30.00"
