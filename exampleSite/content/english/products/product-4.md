@@ -8,8 +8,8 @@ images:
 description : "Parfum Arooma Segar"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "69.500"
+discount_price: "45.500"
 
 # product variation
 colors : ["black","white","gray"]
