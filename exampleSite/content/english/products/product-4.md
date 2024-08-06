@@ -16,9 +16,9 @@ colors : ["black","white","gray"]
 sizes : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button
-button_link: "#"
+button_link: "https://wa.me/+6285857227204"
 
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Parfum alpha di buat dari berbagai wewangian berkualitas tinggi, serta di racik oleh ahlinya ahli parfum, dengan aroma segar serta memiliki daya tahan yang lama.
