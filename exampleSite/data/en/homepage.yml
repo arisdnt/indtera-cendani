@@ -18,36 +18,36 @@ features:
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Aroma Beragam"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Berbagai pilihan aroma untuk menyesuaikan selera dan kepribadian"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Tahan Lama"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Aroma tetap tercium sepanjang hari tanpa perlu sering disemprotkan ulang"
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Kemasan Menarik"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Desain elegan yang membuatnya ideal sebagai hadiah"
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Bahan Berkualitas"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Menggunakan bahan aman yang mengurangi risiko iritasi kulit"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Meningkatkan Kepercayaan Diri dan Mood"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Meningkatkan rasa percaya diri dan suasana hati."
 
       # feature item loop
-    - title: "Easy Pricing"
+    - title: "Fleksibilitas"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Cocok untuk berbagai kesempatan, baik formal maupun kasual"
 
 ############################# promo ############################
 promo:
