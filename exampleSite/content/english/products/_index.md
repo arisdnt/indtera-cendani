@@ -1,5 +1,5 @@
 ---
-title: "All latest Smart Watch"
+title: "Parfum Dengan Kualitas Terbaik"
 description : "this is a meta description"
 draft: false
 ---
